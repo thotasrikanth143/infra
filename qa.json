@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-30697651"
+    "ParameterValue": "ami-6edd3078"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "Training1"
+    "ParameterValue": "devops"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-4a4a323c"
+    "ParameterValue": "subnet-b6015eed"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-18739161"
+    "ParameterValue": "sg-9a4b7de6"
   }
 ]
